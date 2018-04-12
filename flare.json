@@ -1,0 +1,621 @@
+{
+  "name": "GOT",
+
+  "title": "",
+  "icon": "http://images4.fanpop.com/image/photos/21700000/Iron-Throne-game-of-thrones-21729427-1600-1200.jpg",
+"children":
+  [
+  {
+    "name": "Drowned Gods",
+
+    "title": "",
+    "icon": "http://images4.fanpop.com/image/photos/21700000/Iron-Throne-game-of-thrones-21729427-1600-1200.jpg",
+      "children":
+      [
+        {
+          "name": "Ironborn",
+
+          "title": "",
+          "icon": "https://images.alphacoders.com/307/307471.jpg",
+          "children":
+          [
+           {
+            "name": "Greyjoy",
+
+            "title": "",
+            "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/60/and-fire-tv-series-hbo-house-greyjoy-1920x1080-59538.jpg",
+            "children":
+            [
+              {
+                "name": "Theon Greyjoy",
+
+                "title": "Alive",
+                "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/61/of-thrones-tv-series-hbo-theon-greyjoy-1920x1080-60890.jpg"
+              },
+              {
+                "name": "Yara Greyjoy",
+
+                "title": "Alive",
+                "icon": "http://images6.fanpop.com/image/photos/34600000/Asha-Greyjoy-asha-greyjoy-34689991-700-1052.jpg"
+              }
+            ]
+           }
+          ]
+        }
+      ]
+    },
+  {
+      "name": "Faith of the Seven",
+
+      "title": "",
+      "icon": "http://images4.fanpop.com/image/photos/21700000/Iron-Throne-game-of-thrones-21729427-1600-1200.jpg",
+        "children":
+        [
+          {
+            "name": "Andal",
+
+            "title": "",
+            "icon": "https://images.alphacoders.com/307/307471.jpg",
+            "children":
+            [
+              {
+                "name": "Baratheon",
+
+                "title": "",
+                "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/36/game-of-thrones-emblems-stannis-baratheon-1920x1080-35162.jpg",
+                "children":
+                [
+                  {
+                    "name": "Joffrey Baratheon",
+
+                    "title": "Dead",
+                    "icon": "http://img1.wikia.nocookie.net/__cb20150314033448/gameofthrones/images/thumb/5/50/Joff.jpg/130px-0%2C800%2C15%2C723-Joff.jpg"
+                  },
+                  {
+                    "name": "Renly Baratheon",
+
+                    "title": "Dead",
+                    "icon": "http://img1.wikia.nocookie.net/__cb20130116113034/gameofthrones/images/thumb/3/3d/Renly_profile.jpg/130px-0%2C379%2C6%2C341-Renly_profile.jpg"
+                  }
+                ]
+              },
+              {
+                "name": "Lannister",
+
+                "title": "",
+                "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/36/game-of-thrones-house-lannister-1920x1080-35149.jpg",
+                "children":
+                [
+                  {
+                    "name": "Cersei Lannister",
+
+                    "title": "Alive",
+                    "icon": "http://img2.wikia.nocookie.net/__cb20150218182017/gameofthrones/images/thumb/4/41/CerseiS5.png/130px-0%2C1874%2C34%2C1692-CerseiS5.png"
+                  },
+                  {
+                    "name": "Jaime Lannister",
+
+                    "title": "Alive",
+                    "icon": "http://img3.wikia.nocookie.net/__cb20150415043615/gameofthrones/images/thumb/6/6d/Jaime_the_wars_to_come_s5.jpg/130px-0%2C359%2C7%2C325-Jaime_the_wars_to_come_s5.jpg"
+                  },
+
+                  {
+                    "name": "Tyrion Lannister",
+
+                    "title": "Alive",
+                    "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/73/game-of-thrones-tyrion-lannister-1920x1080-72137.jpg"
+                  },
+                  {
+                    "name": "Tywin Lannister",
+
+                    "title": "Dead",
+                    "icon": "http://img2.wikia.nocookie.net/__cb20140326175142/gameofthrones/images/thumb/e/ed/Charles-Dance-as-Tywin-Lannister_photo-Macall-B.Polay_HBO.jpg/130px-0%2C1591%2C27%2C1434-Charles-Dance-as-Tywin-Lannister_photo-Macall-B.Polay_HBO.jpg"
+                  }
+                ]
+              },
+              {
+                "name": "Stark",
+
+                "title": "",
+                "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/87/game-of-thrones-house-stark-winter-is-coming-1920x1080-86229.jpg",
+                "children":
+                [
+                  {
+                    "name": "Brienne of Tarth",
+
+                    "title": "Alive",
+                    "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/47/game-of-thrones-brienne-tarth-1920x1080-46597.jpg"
+                  },
+                  {
+                    "name": "Catelyn Stark",
+
+                    "title": "Dead",
+                    "icon": "http://img2.wikia.nocookie.net/__cb20140515200719/gameofthrones/images/thumb/f/fb/Catelyn-Stark-Profile-HD.png/130px-0%2C544%2C9%2C490-Catelyn-Stark-Profile-HD.png"
+                  }
+                ]
+
+              },
+              {
+                  "name": "Tarly",
+
+                  "title": "",
+                  "icon": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d8/House-Tarly-Square.PNG/revision/latest?cb=20170809084002",
+                  "children":
+                  [
+                    {
+                      "name": "Samwell Tarly",
+
+                      "title": "Alive",
+                      "icon": "http://img2.wikia.nocookie.net/__cb20140519172406/gameofthrones/images/thumb/1/1c/Samwell_Tarly_in_Mockingbird.png/130px-0%2C666%2C13%2C602-Samwell_Tarly_in_Mockingbird.png"
+                    }
+                  ]
+              }
+            ]
+          },
+          {
+            "name": "Dornishmen",
+
+            "title": "",
+            "icon": "https://images.alphacoders.com/307/307471.jpg",
+            "children":
+            [
+              {
+                "name": "Martell",
+
+                "title": "",
+                "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/11/of-thrones-series-fan-art-martell-melaamory-1920x1080-10158.jpg",
+                "children":
+                [
+                  {
+                    "name": "Oberyn Martell",
+
+                    "title": "Dead",
+                    "icon": "https://www.rewind.sk/wp-content/uploads/2018/03/best_serial_full_il_trono_di_spade_st4_ep6_01_1440074350.jpg"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+    },
+  {
+      "name": "Great Stallion",
+
+      "title": "",
+      "icon": "http://images4.fanpop.com/image/photos/21700000/Iron-Throne-game-of-thrones-21729427-1600-1200.jpg",
+      "children":
+      [
+        {
+          "name": "Dothraki",
+
+          "title": "",
+          "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/77/a-song-ice-and-fire-banner-dothraki-1920x1080-76345.jpg",
+          "children":
+          [
+
+                {
+                  "name": "Khal Drogo",
+
+                  "title": "Dead",
+                  "icon": "http://img1.wikia.nocookie.net/__cb20110626031733/gameofthrones/images/thumb/1/1f/Drogo_1x01b.jpg/130px-0%2C346%2C7%2C313-Drogo_1x01b.jpg"
+                }
+
+
+          ]
+        }
+      ]
+    },
+  {
+    "name": "Old god of the Forest",
+
+    "title": "",
+    "icon": "http://images4.fanpop.com/image/photos/21700000/Iron-Throne-game-of-thrones-21729427-1600-1200.jpg",
+    "children":
+    [
+
+      {
+        "name": "Northmen",
+
+        "title": "",
+        "icon": "https://images.alphacoders.com/307/307471.jpg",
+        "children":
+        [
+          {
+            "name": "Bolton",
+
+            "title": "",
+            "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/47/and-fire-tv-series-hbo-house-bolton-1920x1080-46350.jpg",
+            "children":
+            [
+              {
+                "name": "Ramsay Bolton",
+
+                "title": "Dead",
+                "icon": "https://upload.wikimedia.org/wikipedia/pt/f/f1/BoltonGoT.png"
+              },
+              {
+                "name": "Roose Bolton",
+
+                "title": "Dead",
+                "icon": "http://img1.wikia.nocookie.net/__cb20150131122254/gameofthrones/images/thumb/6/62/Roose_Bolton_Season5.png/130px-0%2C773%2C15%2C699-Roose_Bolton_Season5.png"
+              }
+            ]
+          },
+          {
+            "name": "Mormont",
+
+            "title": "",
+            "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/68/and-fire-tv-series-hbo-house-mormont-1920x1080-67427.jpg",
+            "children":
+            [
+              {
+                "name": "Jeor Mormont",
+
+                "title": "Dead",
+                "icon": "http://img4.wikia.nocookie.net/__cb20140515205439/gameofthrones/images/thumb/6/65/Jeor-Mormont-Profile-HD.png/130px-0%2C486%2C8%2C438-Jeor-Mormont-Profile-HD.png"
+              }
+            ]
+          },
+          {
+            "name": "Stark",
+
+            "title": "",
+            "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/87/game-of-thrones-house-stark-winter-is-coming-1920x1080-86229.jpg",
+            "children":
+            [
+              {
+                "name": "Arya Stark",
+
+                "title": "Alive",
+                "icon": "http://img4.wikia.nocookie.net/__cb20150218171658/gameofthrones/images/thumb/6/6e/AryaS5.png/130px-0%2C2084%2C42%2C1886-AryaS5.png"
+              },
+              {
+                "name": "Bran Stark",
+
+                "title": "Alive",
+                "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/69/jon-snow-scene-kit-harington-bran-stark-1920x1080-68595.jpg"
+              },
+              {
+                "name": "Eddard Stark",
+
+                "title": "Dead",
+                "icon": "http://img2.wikia.nocookie.net/__cb20110626030942/gameofthrones/images/thumb/9/9c/EddardStark.jpg/130px-0%2C346%2C7%2C313-EddardStark.jpg"
+              },
+              {
+                "name": "Jon Snow",
+
+                "title": "Alive",
+                "icon": "http://img1.wikia.nocookie.net/__cb20140619120945/gameofthrones/images/thumb/4/47/Jon_Snow_in_The_Children.png/130px-0%2C2045%2C40%2C1849-Jon_Snow_in_The_Children.png"
+              },
+              {
+                "name": "Robb Stark",
+
+                "title": "Dead",
+                "icon": "http://img2.wikia.nocookie.net/__cb20130413125346/gameofthrones/images/thumb/e/e9/Robb-3x03.jpg/130px-0%2C354%2C7%2C320-Robb-3x03.jpg"
+              },
+              {
+                "name": "Sansa Stark",
+
+                "title": "Alive",
+                "icon": "http://img3.wikia.nocookie.net/__cb20150218173040/gameofthrones/images/thumb/e/ed/DarkSansa.png/130px-0%2C1019%2C24%2C925-DarkSansa.png"
+              }
+            ]
+          },
+          {
+            "name": "Targaryen",
+
+            "title": "",
+            "icon": "http://www.pngmart.com/files/4/House-Targaryen-PNG-Image.png",
+            "children":
+              [
+                {
+                  "name": "Jorah Mormont",
+
+                  "title": "Alive",
+                  "icon": "http://img4.wikia.nocookie.net/__cb20140515204127/gameofthrones/images/thumb/5/59/Jorah-Mormont-Profile-HD.png/130px-0%2C482%2C9%2C435-Jorah-Mormont-Profile-HD.png"
+                }
+              ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "R'hllor Lord of Light",
+
+    "title": "",
+    "icon": "http://images4.fanpop.com/image/photos/21700000/Iron-Throne-game-of-thrones-21729427-1600-1200.jpg",
+    "children":
+    [
+      {
+        "name": "Andal",
+
+        "title": "",
+        "icon": "https://images.alphacoders.com/307/307471.jpg",
+        "children":
+        [
+          {
+            "name": "Baratheon",
+
+            "title": "",
+            "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/36/game-of-thrones-emblems-stannis-baratheon-1920x1080-35162.jpg",
+            "children":
+            [
+              {
+                "name": "Stannis Baratheon",
+
+                "title": "Dead",
+                "icon": "http://img2.wikia.nocookie.net/__cb20140618214826/gameofthrones/images/thumb/f/fe/Stannis-Baratheon-Profile_%283%29.png/130px-0%2C764%2C13%2C689-Stannis-Baratheon-Profile_%283%29.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Asshai",
+
+        "title": "",
+        "icon": "https://images.alphacoders.com/307/307471.jpg",
+        "children":
+          [
+            {
+              "name": "Baratheon",
+
+              "title": "",
+              "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/36/game-of-thrones-emblems-stannis-baratheon-1920x1080-35162.jpg",
+              "children":
+              [
+                {
+                  "name": "Melisandre",
+
+                  "title": "Alive",
+                  "icon": "http://img3.wikia.nocookie.net/__cb20150415185831/gameofthrones/images/thumb/3/3e/Melisandre_S5.jpg/130px-0%2C343%2C6%2C309-Melisandre_S5.jpg"
+                }
+              ]
+            }
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Unknown",
+
+    "title": "",
+    "icon": "http://images4.fanpop.com/image/photos/21700000/Iron-Throne-game-of-thrones-21729427-1600-1200.jpg",
+    "children":
+    [
+      {
+        "name": "Andal",
+
+        "title": "",
+        "icon": "https://images.alphacoders.com/307/307471.jpg",
+        "children":
+        [
+          {
+            "name": "Baratheon",
+
+            "title": "",
+            "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/36/game-of-thrones-emblems-stannis-baratheon-1920x1080-35162.jpg",
+            "children":
+            [
+              {
+                "name": "Davos Seaworth",
+
+                "title": "Alive",
+                "icon": "http://img3.wikia.nocookie.net/__cb20150313225856/gameofthrones/images/thumb/4/4c/Davos_Seaworth_%28S04E02%29.png/130px-0%2C780%2C14%2C704-Davos_Seaworth_%28S04E02%29.png"
+              },
+              {
+                "name": "Loras Tyrell",
+
+                "title": "Dead",
+                "icon": "http://img2.wikia.nocookie.net/__cb20140622135716/gameofthrones/images/thumb/6/6c/Ser_Loras_Tyrell.jpg/130px-0%2C1664%2C33%2C1505-Ser_Loras_Tyrell.jpg"
+              },
+              {
+                "name": "Margaery Tyrell",
+
+                "title": "Dead",
+                "icon": "http://img4.wikia.nocookie.net/__cb20150416014255/gameofthrones/images/thumb/6/6e/MargS5.png/130px-0%2C665%2C12%2C600-MargS5.png"
+              },
+              {
+                "name": "Robert Baratheon",
+
+                "title": "Dead",
+                "icon": "http://img2.wikia.nocookie.net/__cb20141119000127/gameofthrones/images/thumb/d/d4/RobertBaratheon.jpg/130px-0%2C346%2C7%2C313-RobertBaratheon.jpg"
+              },
+              {
+                "name": "Sandor Clegane",
+
+                "title": "Alive",
+                "icon": "http://awoiaf.westeros.org/images/7/7b/MiguelRegod%C3%B3nHarkness_theHound.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Redwyne",
+
+            "title": "",
+            "icon": "http://awoiaf.westeros.org/images/b/b1/House_Redwyne2.png",
+            "children":
+            [
+              {
+                "name": "Olenna Tyrell",
+
+                "title": "Dead",
+                "icon": "http://img4.wikia.nocookie.net/__cb20140417125307/gameofthrones/images/thumb/c/c3/Olenna-Tyrell-S4EP01.jpg/130px-0%2C455%2C8%2C411-Olenna-Tyrell-S4EP01.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Stark",
+
+            "title": "",
+            "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/87/game-of-thrones-house-stark-winter-is-coming-1920x1080-86229.jpg",
+            "children":
+            [
+              {
+                "name": "Peter Baelish",
+
+                "title": "Dead",
+                "icon": "http://img1.wikia.nocookie.net/__cb20150219051259/gameofthrones/images/thumb/8/87/Littlefinger_S5.jpg/130px-0%2C1525%2C34%2C1383-Littlefinger_S5.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Targaryen",
+
+            "title": "",
+            "icon": "http://www.pngmart.com/files/4/House-Targaryen-PNG-Image.png",
+            "children":
+            [
+              {
+                "name": "Barristan Selmy",
+
+                "title": "Dead",
+                "icon": "http://img4.wikia.nocookie.net/__cb20140529000807/gameofthrones/images/thumb/7/71/Barristan-Selmy-Profile-HD.png/130px-0%2C735%2C13%2C663-Barristan-Selmy-Profile-HD.png"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Free Folk",
+
+        "title": "",
+        "icon": "https://images.alphacoders.com/307/307471.jpg",
+        "children":
+        [
+
+              {
+                "name": "Gilly",
+
+                "title": "Alive",
+                "icon": "http://img2.wikia.nocookie.net/__cb20140615212038/gameofthrones/images/thumb/0/0e/Gilly.png/130px-0%2C257%2C5%2C232-Gilly.png"
+              },
+              {
+                "name": "Tormund",
+
+                "title": "Alive",
+                "icon": "http://img2.wikia.nocookie.net/__cb20150415044031/gameofthrones/images/thumb/4/46/TormundGS5.png/130px-0%2C242%2C5%2C219-TormundGS5.png"
+              },
+              {
+                "name": "Osha",
+
+                "title": "Dead",
+                "icon": "http://img2.wikia.nocookie.net/__cb20130305150846/gameofthrones/images/thumb/4/49/Osha-S3.jpg/130px-0%2C856%2C14%2C771-Osha-S3.jpg"
+              },
+              {
+                "name": "Ygritte",
+
+                "title": "Dead",
+                "icon": "http://img3.wikia.nocookie.net/__cb20140518100049/gameofthrones/images/thumb/4/47/Ygritte-Profile-HD.png/130px-0%2C892%2C14%2C803-Ygritte-Profile-HD.png"
+              }
+
+
+        ]
+      },
+      {
+        "name": "Unknown",
+
+        "title": "",
+        "icon": "https://images.alphacoders.com/307/307471.jpg",
+        "children":
+        [
+                {
+                  "name": "Lannister",
+
+                  "title": "",
+                  "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/36/game-of-thrones-house-lannister-1920x1080-35149.jpg",
+                  "children":
+                  [
+                    {
+                      "name": "Podrick Payne",
+
+                      "title": "Alive",
+                      "icon": "https://images.alphacoders.com/904/904382.jpg"
+                    },
+                    {
+                      "name": "Shae",
+
+                      "title": "Dead",
+                      "icon": "http://img1.wikia.nocookie.net/__cb20140505142823/gameofthrones/images/thumb/0/01/Shae_in_Two_Swords.png/130px-0%2C1888%2C37%2C1707-Shae_in_Two_Swords.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Stark",
+
+                  "title": "",
+                  "icon": "https://hdwallsbox.com/wallpapers/l/1920x1080/87/game-of-thrones-house-stark-winter-is-coming-1920x1080-86229.jpg",
+                  "children":
+                  [
+                    {
+                      "name": "Talisa Stark",
+
+                      "title": "Dead",
+                      "icon": "http://img1.wikia.nocookie.net/__cb20140612010247/gameofthrones/images/thumb/2/29/Talisa_Stark.png/130px-0%2C342%2C6%2C309-Talisa_Stark.png"
+                    }
+                  ]
+                },
+                {
+                  "name": "Targaryen",
+
+                  "title": "",
+                  "icon": "http://www.pngmart.com/files/4/House-Targaryen-PNG-Image.png",
+                  "children":
+                  [
+                    {
+                      "name": "Bronn",
+
+                      "title": "Alive",
+                      "icon": "http://img4.wikia.nocookie.net/__cb20150416041716/gameofthrones/images/thumb/4/42/Ser-Bronn-Profile-HD.png/130px-0%2C321%2C6%2C290-Ser-Bronn-Profile-HD.png"
+                    },
+                    {
+                      "name": "Daario Naharis",
+
+                      "title": "Alive",
+                      "icon": "http://img3.wikia.nocookie.net/__cb20150414125919/gameofthrones/images/thumb/c/c0/004.jpg/130px-0%2C1819%2C28%2C1637-004.jpg"
+                    },
+                    {
+                      "name": "Missandei",
+
+                      "title": "Alive",
+                      "icon": "http://img3.wikia.nocookie.net/__cb20150219051321/gameofthrones/images/thumb/e/e2/MissS5.png/130px-0%2C1236%2C31%2C1124-MissS5.png"
+                    },
+                    {
+                      "name": "Varys",
+
+                      "title": "Alive",
+                      "icon": "http://img3.wikia.nocookie.net/__cb20150218060453/gameofthrones/images/thumb/a/ae/Varys_S5.jpg/130px-0%2C991%2C26%2C903-Varys_S5.jpg"
+                    }
+                  ]
+                }
+              ]
+      },
+      {
+        "name": "Valyrian",
+
+        "title": "",
+        "icon": "https://images.alphacoders.com/307/307471.jpg",
+        "children":
+        [
+          {
+                  "name": "Targaryen",
+
+                  "title": "",
+                  "icon": "http://www.pngmart.com/files/4/House-Targaryen-PNG-Image.png",
+                  "children":
+                    [
+                      {
+                        "name": "Daenerys Targaryen",
+
+                        "title": "Alive",
+                        "icon": "http://img2.wikia.nocookie.net/__cb20150409231554/gameofthrones/images/thumb/8/8b/GOT_Season_5_03.jpg/130px-0%2C2100%2C41%2C1899-GOT_Season_5_03.jpg"
+                      }
+                      ]
+              }
+        ]
+      }
+    ]
+  }
+  ]
+}
